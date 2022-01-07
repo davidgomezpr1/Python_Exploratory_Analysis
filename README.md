@@ -1,4 +1,4 @@
-# [Project 2 : The Sakila Database Analysis (DVD Rentals)](https://docs.oracle.com/cd/E17952_01/workbench-en/images/wb-sakila-eer.png)
+# [Project 2 : The Sakila Database Analysis (DVD Rentals)](https://github.com/davidgomezpr1/Python_Exploratory_Analysis/blob/Portfolio_Projects/The_Sakila_Database_Analysis)
 ![](https://docs.oracle.com/cd/E17952_01/workbench-en/images/wb-sakila-eer.png)
 
 ## Overview
