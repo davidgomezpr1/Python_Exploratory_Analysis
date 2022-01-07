@@ -7,7 +7,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-mydb = sqlite3.connect('/Users/davidgomez/Downloads/sakila.db')
+mydb = sqlite3.connect('/Users/davidgomez/Desktop/Python Exploratory Analysis/sakila.db')
 
 #Writing a function to verify the DB has been succesfully imported
 
