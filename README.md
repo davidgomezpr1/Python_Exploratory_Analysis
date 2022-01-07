@@ -1,5 +1,5 @@
 # [Project 2 : The Sakila Database Analysis (DVD Rentals)](https://github.com/davidgomezpr1/Python_Exploratory_Analysis/blob/Portfolio_Projects/The_Sakila_Database_Analysis)
-![](https://www.shutterstock.com/es/image-illustration/flow-chart-control-panel-web-site-1597744009)
+![](https://images.unsplash.com/photo-1533750204176-3b0d38e9ac1e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
 
 ## Overview
 
