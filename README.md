@@ -1,5 +1,5 @@
 # [Project 2 : The Sakila Database Analysis (DVD Rentals)](https://github.com/davidgomezpr1/Python_Exploratory_Analysis/blob/Portfolio_Projects/The_Sakila_Database_Analysis.ipynb)
-![](https://docs.oracle.com/cd/E17952_01/workbench-en/images/wb-sakila-eer.png)
+![](https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80)
 
 
 ## Business Request
