@@ -6,20 +6,20 @@
 
 The Sakila DVD rental chain hired me as a freelancer to help them analyze their business. They asked me a series of very specific questions about the rentals:
 
-1. What is the mean of rental duration for all films?
-2. What is the most common rental duration?
-3. What is the most common rental rate?
-4. How is the replacement cost distributed?
-5. How many films of each rating does the store have?
-6. Does the film replacement cost vary depending on film rating?
-7. Give us the rental period in days.
-8. How are the rental days distributed?
-9. What is the highest daily rental rate for the films?
-10. What are the titles of the 5 films with the lowest daily rental rate?
-11. What are the titles of the 3 films with the highest daily rental rate?
-12. How many rentals were made in Lethbridge city?
-13. How many rentals were made in Woodridge city with a rental duration higher than 5 days?
-14. How many rentals were made at the store with id 2 or with a replacement cost lower than 10.99 USD?
+- What is the mean of rental duration for all films?
+- What is the most common rental duration?
+- What is the most common rental rate?
+- How is the replacement cost distributed?
+- How many films of each rating does the store have?
+- Does the film replacement cost vary depending on film rating?
+- Give us the rental period in days.
+- How are the rental days distributed?
+- What is the highest daily rental rate for the films?
+- What are the titles of the 5 films with the lowest daily rental rate?
+- What are the titles of the 3 films with the highest daily rental rate?
+- How many rentals were made in Lethbridge city?
+- How many rentals were made in Woodridge city with a rental duration higher than 5 days?
+- How many rentals were made at the store with id 2 or with a replacement cost lower than 10.99 USD?
 
 ## Overview
 
